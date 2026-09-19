@@ -1,0 +1,273 @@
+﻿suburb,address,sale_date,sale_price,property_type,bedrooms,bathrooms,parking,land_size
+Beverly Hills,4/541 King Georges Road,2026-09-11,1150000,Villa,3,2,1,195
+Beverly Hills,8 Gungaroo Place,2026-09-01,2400000,House,5,2,3,349
+Beverly Hills,5/14-16 Melvin Street,2026-08-27,780000,Apartment,2,1,1,105
+Beverly Hills,123 Tallawalla Street,2026-08-22,1780000,House,4,2,2,556
+Beverly Hills,21/13-17 Hampden Street,2026-08-21,770000,Apartment,2,1,1,missing
+Beverly Hills,19/35-39 Hampden Street,2026-08-20,800000,Apartment,2,1,1,
+Beverly Hills,15 Lee Avenue,2026-08-15,1700000,House,5,2,2,569
+Beverly Hills,3/34-36 Hampden Street,2026-08-07,800000,Apartment,2,2,1,missing
+Beverly Hills,13 Wiggins Avenue, 2026-08-05,1775000,House,3,1,2,461
+Beverly Hills,9/442-444 King Georges Avenue,2026-07-30,570000,Apartment,2,2,1,missing
+Beverly Hills,31 Cahill Street,2026-07-30,2125000,House,4,2,3,657
+Beverly Hills,48 Cooloongatta Road,2026-07-25,1570000,Duplex,4,2,2,300
+Beverly Hills,16/148B Stoney Creek Road,2026-07-18,743000,Apartment,2,1,1,185
+Beverly Hills,10 Garden Glove,2026-07-14,1855000,House,4,2,2,461
+Beverly Hills,9/23-25 Hampden Street,2026-07-02,890000,Apartment,3,2,1,1132
+Beverly Hills,2/8 Hampden Street,2026-06-13,778000,Apartment,2,2,1,109
+Beverly Hills,1/93 Edgabaston Road,2026-06-04,1889000,Townhouse,5,4,2,537
+Beverly Hills,4/2-4 Hampden Street,2026-06-04,825000,Apartment,2,2,1,missing
+Beverly Hills,29A Junction Road,2026-06-03,2370000,Semi-detached,5,3,2,missing
+Beverly Hills,187 Stoney Creek Road,2026-06-03,1300000,House,3,2,1,347
+Beverly Hills,2 Burrell Street,2026-05-30,2106000,House,3,1,3,581
+Beverly Hills,38A Mountview Avenue,2026-05-28,1710000,House,3,1,1,missing
+Beverly Hills,25 Tarrilli Street,2026-05-21,2388000,House,5,3,2,520
+Beverly Hills,7 Bridge view Road,2026-05-20,1710000,House,4,2,2,461
+Beverly Hills,72 Warraroong Street,2026-05-20,1705000,House,3,1,2,537
+Beverly Hills,63 Stoney Creek Road,2026-05-15,1150000,House,2,1,1,480
+Beverly Hills,6/35-39 Hampden Street,2026-05-12,820000,Apartment,2,1,1,119
+Beverly Hills,3/11-17 Broadarrow Road,2026-05-10,1450000,Townhouse,4,2,2,308
+Beverly Hills,1 Garden Grove,2026-05-07,1705000,House,3,2,2,531
+Beverly Hills,78 Welfare Avenue,2026-05-06,2250000,House,3,1,2,632
+Concord,38/29-45 Parramatta Road,2026-08-09,498000,Apartment,1,1,1,74
+Concord,1/2 Durham Street,2026-08-02,2560888,Duplex,3,2,2,270
+Concord,8/64 Majors Bay Road,2026-08-01,735000,Apartment,1,1,1,74
+Concord,25 Marceau Drive,2026-07-31,3500000,House,4,2,0,missing
+Concord,30 Addison Avenue,2026-07-31,3730000,House,5,2,5,695
+Concord,12/164F Burwood Road,2026-07-28,2500000,Apartment,3,2,2,180
+Concord,28 Melbourne Street,2026-07-28,3135000,Duplex,4,3,2,370
+Concord,9 Spring Street,2026-07-21,3470000,House,5,3,3,474
+Concord,19 La Mascotte Avenue ,2026-07-21,3900000,House,4,3,2,missing
+Concord,13/1 Evelyn Avenue,2026-07-20,710000,Apartment,2,1,1,90
+Concord,67 Gipps Street,2026-07-15,2470000,House,3,2,2,619
+Concord,2 High Street,2026-07-14,3050000,House,5,3,2,486
+Concord,44 Melbourne Street,2026-07-11,3300000,House,4,3,2,307
+Concord,13 Creewood Street ,2026-07-08,2410000,House,3,1,2,512
+Concord,6/247D Burwood Road,2026-07-04,1350000,Apartment,3,2,2,missing
+Concord,16 Pitt Street,2026-07-31,3500000,House,5,2,3,607
+Concord,5 Cormiston Avenue,2026-07-25,3550000,House,2,2,2,600
+Concord,9/247L Burwood Road,2026-07-21,1700000,Apartment,3,2,2,missing
+Concord,18 Gale Street,2026-07-17,2250000,House,3,1,2,417
+Concord,79 Brays Road,2026-07-14,3160000,Duplex,5,3,2,missing
+Concord,10A Dally Avenue,2026-07-10,2280000,Semi-detached,5,4,2,234
+Concord,79A Brays Road,2026-07-07,3380000,Duplex,5,3,2,556
+Concord,2 Cormistone Avenue,2026-07-03,3350000,House,3,2,2,455
+Concord,14 Creekwood Street,2026-07-01,2450000,House,3,2,2,480
+Concord,1 Macnarmara Avenue,2026-06-21,3350000,House,3,3,2,562
+Concord,67 Cabarita Road,2026-06-17,4050000,House,5,4,4,695
+Concord,38A Empire Avenue,2026-06-16,2200000,House,2,2,2,404
+Concord,38 John Street,2026-06-05,2790000,House,4,2,4,500
+Concord,4 Albion Street,2026-06-04,4191888,House,5,3,2,531
+Concord,30 Macnamara Avenue,2026-06-03,6475000,House,5,5,4,562
+Castle Hill,28 Ferguson Street,2026-09-14,2300000,House,4,3,3,923
+Castle Hill,25/1-11 Rosa Crescent,2026-09-11,825000,Apartment,2,2,2,145
+Castle Hill,6 Woodvale Place,2026-09-11,2900000,House,5,3,3,900
+Castle Hill,60 Womurrung Avenue,2026-09-11,5200000,House,5,5,6,1284
+Castle Hill,135 Ridgecrop Drive,2026-09-10,2315000,House,5,3,2,802
+Castle Hill,22/49-55 Cecil Avenue,2026-09-04,1140000,Apartment,3,2,2,168
+Castle Hill,9/2-4 Purser Avenue,2026-09-04,935000,Apartment,2,2,1,missing
+Castle Hill,307/11 Fishburn Crescent,2026-08-31,855000,Apartment,2,2,1,89
+Castle Hill,19 Galhand Crescent,2026-08-29,2560000,House,5,3,2,950
+Castle Hill,12 Barcote Place,2026-08-26,2450000,House,5,3,2,741
+Castle Hill,10/2-4 Purser Avenue,2026-08-25,1150000,Apartment,3,2,2,187
+Castle Hill,61 Cambewarra Avenue,2026-08-25,3550000,House,5,5,4,923
+Castle Hill,19 Clark Place,2026-08-24,2700000,House,4,3,2,902
+Castle Hill,11 Tristian Court,2026-08-24,2325000,House,5,3,3,983
+Castle Hill,66 David Road,2026-08-22,2312000,House,5,3,4,741
+Castle Hill,6 Boardeaux Crescent,2026-08-21,2320000,House,5,4,2,450
+Castle Hill,62 Excelisor Avenue,2026-08-21,1950000,House,3,1,1,1037
+Castle Hill,57 Church Street,2026-08-20,2776000,House,4,2,3,916
+Castle Hill,111 Chepstow Drive,2026-08-19,2655000,House,6,4,3,700
+Castle Hill,96 Harrington Avenue,2026-08-18,1300000,Duplex,3,2,2,229
+Castle Hill,405/27 Ashford Avenue,2026-08-13,632000,Apartment,1,1,1,87
+Castle Hill,55B First Farm Drive,2026-08-11,1800000,Semi-detached,4,3,2,403
+Castle Hill,2 Cumberland Avenue,2026-08-08,2305000,House,5,2,2,929
+Castle Hill,5 Kincraig Court,2026-08-08,2720000,House,6,3,4,905
+Castle Hill,15 Anthony Road,2026-08-07,2690000,House,3,2,1,776
+Castle Hill,7 Heron Court,2026-08-07,2260000,House,5,2,2,761
+Castle Hill,29/2-6 Sherwin Avenue,2026-08-06,895000,Apartment,2,2,2,missing
+Castle Hill,175 Wrights Road,2026-08-06,1725000,House,4,2,2,475
+Castle Hill,3 Stringybark Place,2026-08-06,2650000,House,6,3,3,886
+Castle Hill,53/2-4 Purser Avenue,2026-07-31,680000,Apartment,1,1,1,130
+Castle Hill,706/16 Middleton Avenue,2026-06-22,960000,Apartment,2,1,1,missing
+Castle Hill,11 Boardeaux Crescent,2026-06-20,2900000,House,5,3,2,650
+Castle Hill,26 Brushford Avenue,2026-06-19,2710000,House,5,4,2,missing
+Castle Hill,35/1-7 Hume Avenue,2026-06-17,1080000,Apartment,3,2,2,missing
+Castle Hill,10 Applecross Avenue,2026-06-17,3000000,House,5,3,3,866
+Concord,20 Anderson Road,2026-05-21,6900000,House,5,5,6,834
+Concord,11/29-45 Parramatta Road,2026-05-19,536000,Apartment,1,1,1,51
+Concord,62 Davidson Avenue,2026-05-18,3712000,House,5,4,3,524
+Concord,97 Links Avenue,2026-05-12,4000000,House,5,2,2,607
+Concord,75 Brays Road,2026-05-09,3150000,House,3,2,2,556
+Beverly Hills,17 Ponyara Road,2026-03-27,1775000,House,4,2,3,557
+Beverly Hills,14A Zuttion Avenue,2026-03-27,1980000,Duplex,4,3,2,361
+Beverly Hills,2/43 Junction Road,2026-03-24,1410000,Villa,3,2,2,276
+Beverly Hills,10/36-38 Tooranga Terrace,2026-03-23,806000,Apartment,2,2,1,130
+Beverly Hills,10 Zuttion Avenue,2026-03-21,1390000,Duplex,3,2,2,607
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
